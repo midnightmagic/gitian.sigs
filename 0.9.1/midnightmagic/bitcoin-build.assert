@@ -638,7 +638,11 @@
         af0c73bd8d99f280a54570bc2008fccc57be5b6c9f3e1418c34497a8d5a2ffba  zlib1g_1%3a1.2.3.4.dfsg-3ubuntu4_amd64.deb
         46e68ab922ba0b8d29f1b6360fe1551eaed878336e0c13ed61d886704cd749d8  zlib1g-dev_1%3a1.2.3.4.dfsg-3ubuntu4_amd64.deb
 
+<<<<<<< HEAD
 - release: 0.9.1
+=======
+- release: v0.9.1
+>>>>>>> origin/master
 - name: bitcoin
 - type: build
 - optionals: 
